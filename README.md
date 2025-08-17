@@ -67,6 +67,3 @@ to the ALB on the web tier.
    2. RDS failover and switching to the standby DB.  
 9. CloudWatch publishes a message to the SNS topic.  
 10.  The Admin is subscribed to the SNS topic, and he receives an email about the events.
-
-## Video: Project Implementation
-> To be added 
